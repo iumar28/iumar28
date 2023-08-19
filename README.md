@@ -20,11 +20,12 @@ Greetings! I'm Umar Firoz, a Full Stack Developer based in Uttar Pradesh, India.
    - Played a key role in creating a powerful Product Data Management (PDM) tool for manufacturers, utilizing Go programming for backend development within the MVC architecture.
 
 🚀 Projects:
-**- SUPERSPACE, July 2022 - Present**
+
+** -1. SUPERSPACE, July 2022 - Present**
    - https://knyo.cloud  
    - Implemented innovative features using the MERN stack (MongoDB, Express.js, React.js, Node.js) and technologies like tailwind-CSS, JavaScript, and Firebase, providing users with a dynamic catalog of market products based on their location.
      
-- **Property10X[LIVE] , January 2023 - Present**
+ **-2. Property10X[LIVE] , January 2023 - Present**
  - Link: https://theproperty10x.com   
  - Designed and developed a revolutionary real estate software platform with ExpressJS, ReactJS, NodeJS, Firebase, Tailwind-CSS, and Bootstrap5, enabling users to post properties for Buy, Sell, Rent, and stay updated with the latest news and trends.
 
