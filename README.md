@@ -1,6 +1,8 @@
 Umar Firoz | Full Stack Developer | B.Tech in Computer Science
+🌐 Portfolio: https://umarfirozportfolio.netlify.app
+🔗 LinkedIn :  https://www.linkedin.com/in/iumar28/
+📧 Email    :   umar9897222@gmail.com
 
-📍 Uttar Pradesh, India | 📧 umar9897222@gmail.com| 🌐 https://www.linkedin.com/in/iumar28/
 
 Greetings! I'm Umar Firoz, a Full Stack Developer based in Uttar Pradesh, India. I hold a B.Tech in Computer Science Engineering from IKG Punjab Technical University, where I achieved an impressive CGPA of 8.10.
 
@@ -41,8 +43,3 @@ Languages: C++ (Expert), JavaScript (Intermediate), .NET, JAVA
 Technical Skills: NodeJS (Intermediate), J2EE, JSP, MongoDB, CI/CD processes, Jira, GraphQL, Restful APIs, JAVA, System Design (LLD HLD), MS SQL, ASP.NET, Devops
 Coursework: Operating Systems, OOPS, System Design, Computer Network, DBMS, Data structures, Algorithms, Agile Software Development
 Technical Skills (Frontend): HTML, CSS, Bootstrap, React, Redux, MERN Stack, TailwindCSS, WordPress, Angular
-
-
-🌐 Portfolio: https://umarfirozportfolio.netlify.app
-🔗 LinkedIn:  https://www.linkedin.com/in/iumar28/
-\
