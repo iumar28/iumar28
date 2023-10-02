@@ -14,10 +14,12 @@ I'm skilled in building cutting-edge real estate software, developing SaaS produ
   - 🎓 CGPA: 8.10
 
 - **Intermediate**
+  - L.N. Public School, Hapur, Uttar Pradesh
   - Mar 2017 - Mar 2018
   - 📜 83%
 
 - **High School**
+  - L.N. Public School, Hapur, Uttar Pradesh
   - Mar 2015 - Mar 2016
   - 📜 91.6%
 
@@ -31,6 +33,7 @@ I'm skilled in building cutting-edge real estate software, developing SaaS produ
 - Key Contributions:
   - Created a cutting-edge real estate platform for Buy, Sell, Rent, and news updates.
   - Tech Stack: ExpressJS, ReactJS, NodeJS, Firebase, Tailwind-CSS, Bootstrap5.
+  - [Property10X Project](https://theproperty10X.com)
 
 ### Software Engineer Intern @ Glabbr Technologies Private Limited
 
@@ -49,6 +52,7 @@ I'm skilled in building cutting-edge real estate software, developing SaaS produ
 - 🚀 Location-based market catalog
 - Tech Stack: MongoDB, Express.js, React.js, Node.js
 - Enhanced user experience with dynamic catalog adjustments based on the user's location.
+- [Superspace Project](https://superspace.netlify.app)
 
 ### Property10X [LIVE]
 
@@ -56,6 +60,7 @@ I'm skilled in building cutting-edge real estate software, developing SaaS produ
 - 🏡 Real estate software platform
 - Tech Stack: ExpressJS, ReactJS, NodeJS, Firebase, Tailwind-CSS, Bootstrap5
 - Resulted in a 20% increase in user traffic.
+- [Property10X Project](https://theproperty10X.com)
 
 ## Achievements
 
@@ -106,4 +111,11 @@ I'm skilled in building cutting-edge real estate software, developing SaaS produ
 - Wordpress
 - Angular
 
-### Cloud: Azure, AKS/Docker/Kubernetes
+### Cloud
+
+- Azure
+- AKS/Docker/Kubernetes
+
+## LinkedIn Bio
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/iumar28) to stay updated on my professional journey and explore potential collaborations. Let's connect and grow together!
