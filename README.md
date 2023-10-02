@@ -14,12 +14,10 @@ I'm skilled in building cutting-edge real estate software, developing SaaS produ
   - 🎓 CGPA: 8.10
 
 - **Intermediate**
-  - L.N. Public School, Hapur, Uttar Pradesh
   - Mar 2017 - Mar 2018
   - 📜 83%
 
 - **High School**
-  - L.N. Public School, Hapur, Uttar Pradesh
   - Mar 2015 - Mar 2016
   - 📜 91.6%
 
